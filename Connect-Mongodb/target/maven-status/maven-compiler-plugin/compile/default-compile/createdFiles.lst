@@ -1,0 +1,5 @@
+com\stublab\DTO\StubDto$StubDtoBuilder.class
+com\stublab\Service\StubDBSequence.class
+com\stublab\Service\StubService.class
+com\stublab\StubLabApplication.class
+com\stublab\Entity\StubEntity$StubEntityBuilder.class
